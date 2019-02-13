@@ -1,0 +1,3 @@
+include 'com.objectcomputing.com.storefront'
+include 'com.objectcomputing.inventory'
+include 'com.objectcomputing.analytics'

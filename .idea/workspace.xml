@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/ociMicronautTraining/aopproject" value="PREVIEW" />
+        <entry key="$USER_HOME$/Talks/room-with-a-vue-midwestjs" value="PREVIEW" />
+        <entry key="$USER_HOME$/Talks/shields-up-securing-react-apps" value="PREVIEW" />
+        <entry key="$USER_HOME$/Training/room-with-a-vue" value="PREVIEW" />
+        <entry key="$USER_HOME$/Training/room-with-a-vue-gr8us-18" value="PREVIEW" />
+        <entry key="$USER_HOME$/Training/room-with-a-vue-old" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/JamPlay/where-table-null" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/NXP/Reconfirmation/ReconfirmationTool-grails" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/NXP/Reconfirmation/matage" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/NXP/savings_pipeline" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/NXP/wip-transport-ui" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/OCI/Notepad" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/OCI/SETT/greetings" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/grails/doc" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/grails/profiles/vue" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/grails/projects/my-vue-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/core" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/core/cli/build/bin/greetings" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/core/cli/build/bin/my-aws-function" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/core/cli/build/bin/spring-gradle-loaded" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/examples/hello-world-kotlin" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/examples/petstore" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/examples2/petstore" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/guides/deploy-google-cloud" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/guides/micronaut-email" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/profiles" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/configuration-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/messaging/kafka-fed" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/music-search" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/my-jrebel-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/oes/oes-scoring" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/springloaded-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Work/micronaut/projects/tmp/my-jrebel-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/Writing/DGG3_text" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/cassandra-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/gormapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/groovygormapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/my-kafka-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/tmp/vueapp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../micronaut-microservices-distributed-tracing-jaeger" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../micronaut-microservices-distributed-tracing-zipkin" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Work/grails/core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Work/grails/profiles/react" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Work/grails/profiles/vue" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="208" />
+    <option name="y" value="26" />
+    <option name="width" value="1561" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/settings.gradle" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+</project>
