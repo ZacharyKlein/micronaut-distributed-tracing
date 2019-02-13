@@ -9,14 +9,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.micronaut:micronaut-discovery-client:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-client:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-server-netty:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-runtime-groovy:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-validation:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-netty:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-server:1.0.4" level="project" />
-    <orderEntry type="library" name="Gradle: io.micronaut:micronaut-websocket:1.0.4" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.micronaut:micronaut-websocket:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-buffer-netty:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-router:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-runtime:1.0.4" level="project" />

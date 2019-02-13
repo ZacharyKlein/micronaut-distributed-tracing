@@ -55,8 +55,8 @@
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
-    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.30.Final" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.tomcat:tomcat-juli:9.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.30.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.30.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.30.Final" level="project" />
     <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />

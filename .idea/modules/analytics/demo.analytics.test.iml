@@ -10,6 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="demo.analytics.main" />
+    <orderEntry type="library" name="Gradle: io.micronaut:micronaut-discovery-client:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-client:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-server-netty:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-runtime-groovy:1.0.4" level="project" />
