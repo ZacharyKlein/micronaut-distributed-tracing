@@ -1,5 +1,5 @@
 profile: service
-defaultPackage: com.objectcomputing.com
+defaultPackage: com.objectcomputing
 ---
 testFramework: spock
 sourceLanguage: groovy

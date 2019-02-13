@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut.configuration:micronaut-hibernate-gorm:1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut.configuration/micronaut-hibernate-gorm/1.0.4/b9a3404a10d03d58a438097c4797f9712702b6fb/micronaut-hibernate-gorm-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut.configuration/micronaut-hibernate-gorm/1.0.4/b26d24064f61cfd1d70c2567eca9caee8f53f7a7/micronaut-hibernate-gorm-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

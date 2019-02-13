@@ -8,9 +8,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/com.objectcomputing.analytics" />
-            <option value="$PROJECT_DIR$/com.objectcomputing.com.storefront" />
-            <option value="$PROJECT_DIR$/com.objectcomputing.inventory" />
+            <option value="$PROJECT_DIR$/analytics" />
+            <option value="$PROJECT_DIR$/inventory" />
+            <option value="$PROJECT_DIR$/storefront" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

@@ -7,7 +7,7 @@ apply plugin:"application"
 apply plugin:"groovy"
 
 version "0.1"
-group "com.objectcomputing.com"
+group "com.objectcomputing"
 
 repositories {
     mavenLocal()
@@ -26,6 +26,8 @@ dependencies {
     compile "io.micronaut:micronaut-http-server-netty"
     compile "io.micronaut:micronaut-runtime-groovy"
     compile "io.micronaut:micronaut-validation"
+    compile "io.micronaut:micronaut-discovery-client"
+    
     compileOnly "io.micronaut:micronaut-inject-groovy"
     runtime "ch.qos.logback:logback-classic:1.2.3"
     testCompile("org.spockframework:spock-core") {
@@ -43,7 +45,7 @@ shadowJar {
 
 run.jvmArgs('-noverify', '-XX:TieredStopAtLevel=1')
 
-mainClassName = "com.objectcomputing.com.Application"
+mainClassName = "com.objectcomputing.Application"
 tasks.withType(GroovyCompile) {
     groovyOptions.forkOptions.jvmArgs.add('-Dgroovy.parameters=true')
 }

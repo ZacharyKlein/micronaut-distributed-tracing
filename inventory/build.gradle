@@ -26,8 +26,15 @@ dependencies {
     compile "io.micronaut:micronaut-http-server-netty"
     compile "io.micronaut:micronaut-runtime-groovy"
     compile "io.micronaut:micronaut-validation"
+    compile "io.micronaut.configuration:micronaut-hibernate-gorm"
+    compile "io.micronaut:micronaut-discovery-client"
+    
     compileOnly "io.micronaut:micronaut-inject-groovy"
+
     runtime "ch.qos.logback:logback-classic:1.2.3"
+    runtime 'org.apache.tomcat:tomcat-jdbc'
+    runtime  'com.h2database:h2'
+
     testCompile("org.spockframework:spock-core") {
         exclude group: "org.codehaus.groovy", module: "groovy-all"
     }

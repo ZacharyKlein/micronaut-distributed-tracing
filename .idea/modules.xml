@@ -3,9 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.objectcomputing.analytics/demo.com.objectcomputing.analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/com.objectcomputing.analytics/demo.com.objectcomputing.analytics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.objectcomputing.com.storefront/demo.com.objectcomputing.com.storefront.iml" filepath="$PROJECT_DIR$/.idea/modules/com.objectcomputing.com.storefront/demo.com.objectcomputing.com.storefront.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.objectcomputing.inventory/demo.com.objectcomputing.inventory.iml" filepath="$PROJECT_DIR$/.idea/modules/com.objectcomputing.inventory/demo.com.objectcomputing.inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytics/demo.analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/analytics/demo.analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytics/demo.analytics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/analytics/demo.analytics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytics/demo.analytics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/analytics/demo.analytics.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory/demo.inventory.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory/demo.inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory/demo.inventory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory/demo.inventory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory/demo.inventory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory/demo.inventory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storefront/demo.storefront.iml" filepath="$PROJECT_DIR$/.idea/modules/storefront/demo.storefront.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storefront/demo.storefront.main.iml" filepath="$PROJECT_DIR$/.idea/modules/storefront/demo.storefront.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/storefront/demo.storefront.test.iml" filepath="$PROJECT_DIR$/.idea/modules/storefront/demo.storefront.test.iml" />
     </modules>
   </component>
 </project>

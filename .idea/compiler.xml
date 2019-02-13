@@ -4,5 +4,13 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo.analytics.main" target="1.10" />
+      <module name="demo.analytics.test" target="1.10" />
+      <module name="demo.inventory.main" target="1.10" />
+      <module name="demo.inventory.test" target="1.10" />
+      <module name="demo.storefront.main" target="1.10" />
+      <module name="demo.storefront.test" target="1.10" />
+    </bytecodeTargetLevel>
   </component>
 </project>

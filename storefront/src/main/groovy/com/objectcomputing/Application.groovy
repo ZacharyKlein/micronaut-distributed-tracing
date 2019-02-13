@@ -1,4 +1,4 @@
-package com.objectcomputing.com
+package com.objectcomputing
 
 import io.micronaut.runtime.Micronaut
 import groovy.transform.CompileStatic
