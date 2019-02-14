@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micronaut:micronaut-tracing:1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-tracing/1.0.4/7999329f3aa1fce174945f051d333c1e92640fce/micronaut-tracing-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micronaut/micronaut-tracing/1.0.4/55eac6ba735d9c1c38eddca892cd546269c34480/micronaut-tracing-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

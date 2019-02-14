@@ -5,6 +5,8 @@ import io.micronaut.http.HttpResponse
 import io.micronaut.http.annotation.Controller
 import io.micronaut.http.annotation.Get
 import io.micronaut.http.annotation.Post
+import io.micronaut.tracing.annotation.NewSpan
+import io.micronaut.tracing.annotation.SpanTag
 
 @Slf4j
 @Controller("/analytics")
@@ -20,8 +22,9 @@ class AnalyticsController {
     }
 
 
+    @NewSpan("hits")
     @Get("/{productNumber}")
-    HttpResponse<Integer> hits(String productNumber) {
+    HttpResponse<Integer> hits(@SpanTag("product") String productNumber) {
         log.info "Returning hits for ${productNumber}"
 
         Integer result = hits.get(productNumber)
