@@ -16,8 +16,8 @@
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-validation:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-netty:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-http-server:1.0.4" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-websocket:1.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-buffer-netty:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-router:1.0.4" level="project" />
     <orderEntry type="library" name="Gradle: io.micronaut:micronaut-runtime:1.0.4" level="project" />
@@ -33,8 +33,8 @@
     <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.30.Final" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.30.Final" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.9.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.8" level="project" />
     <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.9.8" level="project" />
     <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.30.Final" level="project" />
