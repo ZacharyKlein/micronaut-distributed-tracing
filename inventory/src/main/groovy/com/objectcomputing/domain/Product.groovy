@@ -7,11 +7,11 @@ import org.grails.datastore.gorm.GormEntity
 class Product implements GormEntity<Product> {
 
     String name
-    String partNumber
+    String partNumberr
     BigDecimal price
 
     static constraints = {
         name blank: false
-        partNumber blank: false
+        partNumberr blank: false
     }
 }

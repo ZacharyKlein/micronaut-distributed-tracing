@@ -22,7 +22,7 @@ class AnalyticsFilter implements HttpServerFilter {
 
     @Override
     Publisher<MutableHttpResponse<?>> doFilter(HttpRequest<?> request, ServerFilterChain chain) {
-        log.info "doFilter..."
+        //log.info "doFilter..."
 
         return Flowable.fromCallable({
             //TODO: analyticsClient.hit("001")

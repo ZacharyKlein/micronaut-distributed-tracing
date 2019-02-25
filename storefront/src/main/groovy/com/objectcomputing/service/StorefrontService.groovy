@@ -28,7 +28,7 @@ class StorefrontService {
                 .body()
 
         products = products.collect { p ->
-            p.hits = analyticsClient.hits(p.partNumber).body()
+            p.hits = analyticsClient.hits(p.partNumberr).body()
             p
         }
 

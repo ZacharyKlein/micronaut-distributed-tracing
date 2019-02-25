@@ -7,6 +7,6 @@ import io.micronaut.http.client.annotation.Client
 @Client(id = "analytics", path = "/analytics")
 interface AnalyticsClient {
 
-    @Get("/{productNumber}")
-    HttpResponse<Integer> hits(String productNumber)
+    @Get("/{partNumber}")
+    HttpResponse<Integer> hits(String partNumber)
 }

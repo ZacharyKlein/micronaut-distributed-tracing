@@ -6,7 +6,7 @@ import grails.gorm.services.Service
 @Service(Product)
 interface ProductService {
 
-    Product save(String name, String partNumber, BigDecimal price)
+    Product save(String name, String partNumberr, BigDecimal price)
 
     Product find(Serializable id)
 

@@ -16,13 +16,13 @@ class Bootstrap implements ApplicationEventListener<ServerStartupEvent> {
     void onApplicationEvent(ServerStartupEvent event) {
 
         [
-                [name: "Widget A", partNumber: "001", price: 10.00],
-                [name: "Widget B", partNumber: "002", price: 15.00],
-                [name: "Widget C", partNumber: "003", price: 20.00],
+                [name: "Widget A", partNumberr: "001", price: 10.00],
+                [name: "Widget B", partNumberr: "002", price: 15.00],
+                [name: "Widget C", partNumberr: "003", price: 20.00],
         ].each { details ->
             productService.save(
                     "${details.name}",
-                    "${details.partNumber}",
+                    "${details.partNumberr}",
                     "${details.price}".toBigDecimal())
         }
 
