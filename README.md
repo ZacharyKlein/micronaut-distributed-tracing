@@ -1,4 +1,4 @@
-#Distributed Tracing with Micronaut
+# Distributed Tracing with Micronaut
 
 
 The demo consists of three services - `storefront`, `inventory`, and `analytics`.
