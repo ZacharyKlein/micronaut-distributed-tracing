@@ -23,7 +23,11 @@ class AnalyticsController {
     HttpResponse hit(String partNumber) {
         String username = tracer.activeSpan().getBaggageItem("username")
 
-        log.info "Recording hit for ${partNumber} by ${username}"
+        if(username) {
+            tracer.activeSpan().setTag("username", username)
+        }
+
+        log.info "Recording hit for ${partNumber}"
 
         HttpResponse.ok()
     }
